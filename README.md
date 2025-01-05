@@ -1,7 +1,5 @@
-# Hi there, I'm Alireza Mahdavi! 👋
 ![Hello Animation](https://github.com/alireza-mahdavi/alireza-mahdavi/blob/main/assets/hello-animation.gif)
-
-
+# Hi there, I'm Alireza Mahdavi! 👋
 ## About Me
 I'm a **Neuroscientist** specializing in NBIC (Nano-Bio-Info-Cogno) technologies at the **Royan Institute**. My research focuses on understanding the neural mechanisms underlying cognitive functions.
 
