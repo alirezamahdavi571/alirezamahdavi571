@@ -3,10 +3,9 @@
 ## About Me
 I'm a **Neuroscientist** specializing in NBIC (Nano-Bio-Info-Cogno) technologies at the **Royan Institute**. My research focuses on Primates neural Activity on visial tasks.
 
-- 🔭 I’m currently working on [Your Current Project or Research]
-- 🌱 I’m expanding my expertise in [New Skills or Areas You're Learning]
-- 👯 I’m looking to collaborate on [Types of Projects or Research You're Interested In]
-- 📫 How to reach me: [alireza.email@example.com](mailto:alireza.email@example.com)
+- 🔭 I’m currently working on The roll of Varoance on complex images descoding in primates barin
+- 🌱 I’m expanding my expertise in Information theory techniques 
+- 📫 How to reach me: [alireza.email@example.com](mailto:alimahdavi571@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## Connect with Me:
