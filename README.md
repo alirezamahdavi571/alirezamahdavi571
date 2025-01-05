@@ -10,3 +10,10 @@ I'm a **Neuroscientist** specializing in NBIC (Nano-Bio-Info-Cogno) technologies
 
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-mahdavi-836923217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+## Skills & Technologies
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900?logo=machine-learning&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-8A2BE2?logo=data-analysis&logoColor=white)
