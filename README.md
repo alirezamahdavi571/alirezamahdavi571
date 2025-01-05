@@ -1,4 +1,6 @@
 # Hi there, I'm Alireza Mahdavi! 👋
+![Animated Banner](https://github.com/alireza-mahdavi/alireza-mahdavi/blob/main/assets/your-animation.gif)
+
 
 ## About Me
 I'm a **Neuroscientist** specializing in NBIC (Nano-Bio-Info-Cogno) technologies at the **Royan Institute**. My research focuses on Primates neural Activity on visial tasks.
