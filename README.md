@@ -17,3 +17,5 @@ I'm a **Neuroscientist** specializing in NBIC (Nano-Bio-Info-Cogno) technologies
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9900?logo=machine-learning&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-8A2BE2?logo=data-analysis&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
