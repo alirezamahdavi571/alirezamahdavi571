@@ -5,7 +5,7 @@ I'm a **Neuroscientist** specializing in NBIC (Nano-Bio-Info-Cogno) technologies
 
 - 🔭 I’m currently working on The roll of Varoance on complex images descoding in primates barin
 - 🌱 I’m expanding my expertise in Information theory techniques 
-- 📫 How to reach me: [alireza.email@example.com](mailto:alimahdavi571@gmail.com)
+- 📫 How to reach me: [alimahdavi571@gmail.com](mailto:alimahdavi571@gmail.com)
 - 😄 Pronouns: He/Him
 
 ## Connect with Me:
