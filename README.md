@@ -1,7 +1,7 @@
 # Hi there, I'm Alireza Mahdavi! 👋
 
 ## About Me
-I'm a **Neuroscientist** specializing in NBIC (Nano-Bio-Info-Cogno) technologies at the **Royan Institute**. My research focuses on [briefly describe your research interests or projects].
+I'm a **Neuroscientist** specializing in NBIC (Nano-Bio-Info-Cogno) technologies at the **Royan Institute**. My research focuses on Primates neural Activity on visial tasks.
 
 - 🔭 I’m currently working on [Your Current Project or Research]
 - 🌱 I’m expanding my expertise in [New Skills or Areas You're Learning]
