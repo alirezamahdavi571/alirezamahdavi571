@@ -10,6 +10,7 @@ I'm a **Neuroscientist** 🧠 📚 specializing in NBIC (Nano-Bio-Info-Cogno) te
 - 🌱 I’m expanding my expertise in Information theory techniques 
 - 📫 How to reach me: [alimahdavi571@gmail.com](mailto:alimahdavi571@gmail.com)
 - 😄 Pronouns: He/Him
+![animation-cartoon](https://github.com/user-attachments/assets/8159b8b9-792c-4f63-b515-5684333c4e2c)
 
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-mahdavi-836923217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
