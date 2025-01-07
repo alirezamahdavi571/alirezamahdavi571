@@ -1,11 +1,10 @@
 ![Alireza Mahdavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireza-mahdavi&show_icons=true&theme=radical)
-![animation-cartoon](https://github.com/user-attachments/assets/8159b8b9-792c-4f63-b515-5684333c4e2c)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-mahdavi&layout=compact&theme=radical)](https://github.com/alireza-mahdavi/alireza-mahdavi)
 # Hi there, I'm Alireza Mahdavi! 👋
 
 ## About Me
 I'm a **Neuroscientist** 🧠 📚 specializing in NBIC (Nano-Bio-Info-Cogno) technologies at the **Royan Institute**. My research focuses on Primates neural Activity on visial tasks.
-
+![animation-cartoon](https://github.com/user-attachments/assets/8159b8b9-792c-4f63-b515-5684333c4e2c)
 - 🔭 I’m currently working on The roll of Varoance on complex images descoding in primates barin
 - 🌱 I’m expanding my expertise in Information theory techniques 
 - 📫 How to reach me: [alimahdavi571@gmail.com](mailto:alimahdavi571@gmail.com)
