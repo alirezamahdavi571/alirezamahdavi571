@@ -6,7 +6,7 @@
 I'm a **Neuroscientist** 🧠 📚 specializing in NBIC (Nano-Bio-Info-Cogno) technologies at the **Royan Institute**. My research focuses on Primates neural Activity on visial tasks.
 
 ![animation-cartoon](https://github.com/user-attachments/assets/8159b8b9-792c-4f63-b515-5684333c4e2c)
-- 🔭 I’m currently working on The roll of Varoance on complex images descoding in primates barin
+- 🔭 I’m currently working on The roll of Variance on complex images descoding in primates barin
 - 🌱 I’m expanding my expertise in Information theory techniques 
 - 📫 How to reach me: [alimahdavi571@gmail.com](mailto:alimahdavi571@gmail.com)
 - 😄 Pronouns: He/Him
