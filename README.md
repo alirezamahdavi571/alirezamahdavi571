@@ -1,6 +1,52 @@
-![Alireza Mahdavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireza-mahdavi&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-mahdavi&layout=compact&theme=radical)](https://github.com/alireza-mahdavi/alireza-mahdavi)
-# Hi there, I'm Alireza Mahdavi! 👋
+<!-- GitHub Stats Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF0266&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Alireza+Mahdavi!+👋;Neuroscience+%7C+AI+%7C+Data+Analysis;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alirezamahdavi571&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezamahdavi571&theme=radical" />
+</p>
+
+---
+
+### 🧩 Languages and Tools
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=radical&langs_count=10&count_private=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alirezamahdavi571&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/alirezamahdavi571/The-Roll-of-Variance-in-complex-images-decoding">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=The-Roll-of-Variance-in-complex-images-decoding&theme=radical" />
+  </a>
+  <a href="https://github.com/alirezamahdavi571/Neural-Decoding-Analysis">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=Neural-Decoding-Analysis&theme=radical" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=radical&hide_border=true&area=true" width="95%"/>
+</p>
+
 
 ## About Me
 I'm a **Neuroscientist** 🧠 📚 specializing in NBIC (Nano-Bio-Info-Cogno) technologies at the **Royan Institute**. My research focuses on Primates neural Activity on visial tasks.
