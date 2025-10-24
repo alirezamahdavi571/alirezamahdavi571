@@ -1,7 +1,4 @@
 <!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF0266&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Alireza+Mahdavi!+👋;Neuroscience+%7C+AI+%7C+Data+Analysis;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
 
 ---
 
