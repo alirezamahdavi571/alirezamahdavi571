@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Alireza+Mahdavi+%7C+GitHub+Profile;Neuroscientist+%7C+NBIC+Researcher;Neural+Decoding+%7C+Information+Theory;Python+%7C+MATLAB+%7C+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Alireza+Mahdavi's+GitHub+Profile;Neuroscientist+%7C+NBIC+Researcher;Neural+Decoding+%7C+Information+Theory;Python+%7C+MATLAB+%7C+Machine+Learning" />
 
 </div>
 
@@ -17,7 +17,7 @@ Field       : Neuroscience 🧠
 Institute   : Royan Institute
 Research    : Neural activity in primates during visual tasks
 Focus       : Variance analysis | Neural decoding | Information theory
-Location    : Netherlands 🇳🇱
+Location    : Iran IR
 ```
 
 ---
