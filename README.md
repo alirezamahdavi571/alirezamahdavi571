@@ -15,8 +15,8 @@
 Name        : Alireza Mahdavi
 Field       : Neuroscience 🧠
 Institute   : Royan Institute
-Research    : Neural activity in primates during visual tasks
-Focus       : Variance analysis | Neural decoding | Information theory
+Research    : Technical Manager in primates during visual tasks
+Focus       : Variance analysis | Neural decoding | Information theory | EEG 
 Location    : Iran IR
 ```
 
