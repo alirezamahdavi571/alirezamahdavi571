@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+Alireza's+Linux+Profile;Neuroscientist+%7C+NBIC+Researcher;Neural+Decoding+%7C+Information+Theory;Python+%7C+MATLAB+%7C+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+Alireza's+Github+Profile;Neuroscientist+%7C+NBIC+Researcher;Neural+Decoding+%7C+Information+Theory;Python+%7C+MATLAB+%7C+Machine+Learning" />
 
 </div>
 
