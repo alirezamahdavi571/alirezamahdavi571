@@ -10,16 +10,6 @@ consider below github README file. I want to have a read which work like a linux
 ---
 
 
-┌──(alireza㉿neuro-lab)-[~/]
-└─$ whoami
-Alireza Mahdavi
-
-┌──(alireza㉿neuro-lab)-[~/]
-└─$ cat about_me.txt
-🧠 Neuroscientist specializing in NBIC Technologies
-🏛 Royan Institute
-🔬 Research: Neural activity in primates during visual tasks
-📊 Focus: Variance analysis, Neural decoding, Information theory
 
 
 <div align="center">
