@@ -119,6 +119,15 @@ Neural_Decoding
 
 ---
 
+## 🔬 Research Interests & Skills
+
+# Core Domain Frameworks
+• Neural Variability & Population Coding
+• Visual Neuroscience & High-Level Object Representation
+• Inter-Areal Brain Connectivity (PLV, Granger Causality)
+• Brain-Inspired Artificial Intelligence (Deep Networks vs. Brain Reps)
+• Integrated Primate Neurophysiology Platforms
+
 ## 🏆 Achievements
 
 <p align="center">
