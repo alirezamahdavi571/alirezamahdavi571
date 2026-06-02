@@ -33,12 +33,16 @@ Alireza Mahdavi
 
 ---
 
-## 🧠 Installed Packages (Languages)
+<h2 align="left">🧠 Installed Packages (Languages)</h2>
 
 <p align="center">
-  <img width="50%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=dark&langs_count=10&count_private=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="50%"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=dark" />
+  </a>
 </p>
+
+---
 
 ---
 ---
