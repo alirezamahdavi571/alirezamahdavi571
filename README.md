@@ -36,9 +36,11 @@ Alireza Mahdavi
 ## 🧠 Installed Packages (Languages)
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=dark&langs_count=10&count_private=true" />
+  <img width="50%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=dark&langs_count=10&count_private=true" />
 </p>
 
+---
 ---
 
 ```bash
