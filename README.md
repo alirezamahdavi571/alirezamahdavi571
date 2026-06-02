@@ -128,34 +128,8 @@ Neural_Decoding
 • Brain-Inspired Artificial Intelligence (Deep Networks vs. Brain Reps)
 • Integrated Primate Neurophysiology Platforms
 
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirezamahdavi571&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/alirezamahdavi571/The-Roll-of-Variance-in-complex-images-decoding">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=The-Roll-of-Variance-in-complex-images-decoding&theme=dark" />
-  </a>
-  <a href="https://github.com/alirezamahdavi571/Neural-Decoding-Analysis">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=Neural-Decoding-Analysis&theme=dark" />
-  </a>
-</p>
-
----
-
-## 📈 Activity Monitor
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
----
+--- ## 📈 Activity Monitor <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/> </p> ---
 
 ```bash
 ┌──(alireza㉿neuro-lab)-[~/current_work]
