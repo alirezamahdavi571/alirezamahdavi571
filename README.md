@@ -102,34 +102,23 @@ Alireza Mahdavi
 </p>
 ---
 
-```bash
-┌──(alireza㉿neuro-lab)-[~/skills]
-└─$ ls technologies/
-
-Python
-MATLAB
-R
-Machine_Learning
-Data_Analysis
-C
-C++
-Information_Theory
-Neural_Decoding
-```
-
----
 
 ## 🔬 Research Interests & Skills
-
+```bash
 # Core Domain Frameworks
 • Neural Variability & Population Coding
 • Visual Neuroscience & High-Level Object Representation
 • Inter-Areal Brain Connectivity (PLV, Granger Causality)
 • Brain-Inspired Artificial Intelligence (Deep Networks vs. Brain Reps)
 • Integrated Primate Neurophysiology Platforms
+```
 
-
---- ## 📈 Activity Monitor <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/> </p> ---
+--- ## 📈 Activity Monitor 
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?
+username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+---
 
 ```bash
 ┌──(alireza㉿neuro-lab)-[~/current_work]
