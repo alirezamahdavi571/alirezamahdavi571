@@ -161,23 +161,43 @@ Neural_Decoding
 ## 📬 Contact
 
 ```bash
-┌──(alireza㉿neuro-lab)-[~/contact]
-└─$ ./connect.sh
+<p align="left">
 
-Email    : alimahdavi571@gmail.com
-LinkedIn : https://www.linkedin.com/in/alireza-mahdavi-836923217
-Pronouns : He/Him
-Location : Netherlands 🇳🇱
-```
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/alireza-mahdavi-836923217/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alireza%20Mahdavi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="LinkedIn"/>
+  </a>
 
----
+  <!-- Email -->
+  <a href="mailto:alimahdavi571@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Email"/>
+  </a>
 
-<div align="center">
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+         alt="Kaggle"/>
+  </a>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <!-- GitHub -->
+  <a href="https://github.com/alirezamahdavi571">
+    <img src="https://img.shields.io/badge/GitHub-@alirezamahdavi571-181717?style=for-the-badge&logo=github&logoColor=white"
+         alt="GitHub"/>
+  </a>
 
-</div>
+  <!-- Research / Brain field -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Neuroscience-NBIC%20Research-6A5ACD?style=for-the-badge&logo=brain&logoColor=white"
+         alt="Neuroscience"/>
+  </a>
 
+  <!-- Location -->
+  <img src="https://img.shields.io/badge/Location-Netherlands🇳🇱-00C853?style=for-the-badge"
+       alt="Location"/>
+
+</p>
 ---
 
 ```bash
