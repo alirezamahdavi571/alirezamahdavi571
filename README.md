@@ -9,7 +9,7 @@ consider below github README file. I want to have a read which work like a linux
 
 ---
 
-```bash
+
 ┌──(alireza㉿neuro-lab)-[~/]
 └─$ whoami
 Alireza Mahdavi
@@ -20,7 +20,14 @@ Alireza Mahdavi
 🏛 Royan Institute
 🔬 Research: Neural activity in primates during visual tasks
 📊 Focus: Variance analysis, Neural decoding, Information theory
-```
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=🧠+Neuroscientist+specializing+in+NBIC+Technologies+🏛+Royan+Institute+🔬+Research+:+Neural+activity+in+primates+during+visual+tasks+📊+Focus+:+Variance+analysis+,+Neural+decoding+,+Information+theory" />
+
+</div>
+
 
 ---
 
