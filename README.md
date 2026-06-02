@@ -1,182 +1,103 @@
-# 🖥️ Linux Terminal Style GitHub README
-
-````html
-<!-- ===================== TERMINAL README ===================== -->
+````markdown
+<!-- ================= WINDOWS CMD STYLE ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Booting+Alireza+Mahdavi+Profile...;Loading+Neuroscience+Modules...;Initializing+Neural+Decoding+System...;Access+Granted+✔" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Microsoft+Windows+%5BVersion+10.0.22621.1%5D;Initializing+Profile...;Loading+Neural+Decoding+Modules...;Access+Granted." />
 
 </div>
 
----
+<br>
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-```bash
-██████████████████████████████████████████████████████████
-█░░░░░░░░░░░░░░░ TERMINAL SESSION ░░░░░░░░░░░░░░░░░░░░█
-██████████████████████████████████████████████████████████
-````
+```cmd
+Microsoft Windows [Version 10.0.22621.1]
+(c) Microsoft Corporation. All rights reserved.
 
-</div>
+C:\Users\Alireza> whoami
+alireza-mahdavi
 
-```bash
-root@github:~# systemctl start profile.service
+C:\Users\Alireza> type about.txt
 
-[  OK  ] Loading neuroscience modules...
-[  OK  ] Initializing neural decoding engine...
-[  OK  ] Mounting machine learning environment...
-[  OK  ] Starting NBIC research services...
-[  OK  ] Access granted.
+[INFO] Neuroscientist & NBIC Researcher
+[INFO] Royan Institute
+[INFO] Neural Decoding
+[INFO] Information Theory
+[INFO] Machine Learning
+[INFO] Brain Signal Analysis
 
-root@github:~# whoami
-Alireza Mahdavi
+C:\Users\Alireza> dir skills
 
-root@github:~# cat about.txt
+ Volume in drive C has no label.
+ Directory of C:\Users\Alireza\skills
 
-🧠 Neuroscientist | NBIC Researcher
-🏛 Royan Institute
-🔬 Research Focus:
-   • Neural Variability
-   • Information Theory
-   • Neural Decoding
-   • Brain Dynamics in Primates
+06/02/2026  10:00 AM    <DIR>          Python
+06/02/2026  10:00 AM    <DIR>          MATLAB
+06/02/2026  10:00 AM    <DIR>          C++
+06/02/2026  10:00 AM    <DIR>          Qt
+06/02/2026  10:00 AM    <DIR>          MachineLearning
+06/02/2026  10:00 AM    <DIR>          NeuralDecoding
 
-📡 Current Mission:
-Understanding visual information processing in the brain.
+C:\Users\Alireza>
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 📊 SYSTEM MONITOR
+# 📊 System Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alirezamahdavi571&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezamahdavi571&theme=chartreuse-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alirezamahdavi571&show_icons=true&theme=dark&hide_border=true"/>
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezamahdavi571&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🧠 INSTALLED PACKAGES
-
-```bash
-root@github:~/skills# ls
-
-Python
-MATLAB
-R
-Machine_Learning
-Deep_Learning
-Neural_Decoding
-Information_Theory
-Signal_Processing
-C
-C++
-Qt
-Linux
-```
-
----
-
-# 📈 CPU USAGE / LANGUAGE ANALYTICS
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-
----
-
-# 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirezamahdavi571&theme=matrix&no-frame=true&margin-w=15" />
-</p>
-
----
-
-# 📂 FEATURED PROJECTS
-
-```bash
-root@github:~/projects# tree
-
-.
-├── The-Roll-of-Variance-in-complex-images-decoding
-├── Neural-Decoding-Analysis
-└── Brain-Signal-Processing
-```
+# 📂 Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/alirezamahdavi571/The-Roll-of-Variance-in-complex-images-decoding">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=The-Roll-of-Variance-in-complex-images-decoding&theme=chartreuse-dark&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=The-Roll-of-Variance-in-complex-images-decoding&theme=dark" />
 </a>
 
 <a href="https://github.com/alirezamahdavi571/Neural-Decoding-Analysis">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=Neural-Decoding-Analysis&theme=chartreuse-dark&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=Neural-Decoding-Analysis&theme=dark" />
 </a>
 
 </p>
 
 ---
 
-# 📡 LIVE ACTIVITY
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
+```cmd
+C:\Users\Alireza> ping github.com
 
----
+Pinging github.com with 32 bytes of data:
 
-# 🔄 CURRENT TASKS
+Reply from github.com: bytes=32 time=21ms TTL=117
+Reply from github.com: bytes=32 time=18ms TTL=117
+Reply from github.com: bytes=32 time=20ms TTL=117
 
-```bash
-root@github:~/current_tasks# journalctl -u research.service
+Ping statistics for github.com:
+    Packets: Sent = 3, Received = 3, Lost = 0
 
-● Working on:
-  Role of Variance in Complex Image Decoding
-
-● Learning:
-  Advanced Information Theory
-  Neural Modeling
-  Brain-Inspired AI
+C:\Users\Alireza> _
 ```
 
----
+</td>
+</tr>
+</table>
 
-# 🌐 NETWORK CONFIG
-
-```bash
-root@github:~/contact# ifconfig
-
-user      : Alireza Mahdavi
-email     : alimahdavi571@gmail.com
-linkedin  : linkedin.com/in/alireza-mahdavi-836923217
-location  : Netherlands 🇳🇱
-status    : Online
-```
-
----
-
-<div align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-```bash
-root@github:~# logout
-
-Saving session...
-Terminated successfully.
-
-Connection to github closed.
-```
-
-<!-- ===================== END ===================== -->
-
-```
-```
+<!-- ================= END ================= -->
+````
