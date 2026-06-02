@@ -113,22 +113,6 @@ Alireza Mahdavi
 • Integrated Primate Neurophysiology Platforms
 ```
 
---- ## 📈 Activity Monitor 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?
-username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
----
-## 📈 Activity Monitor
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/>
-
-</p>
-
 
 ```bash
 ┌──(alireza㉿neuro-lab)-[~/current_work]
