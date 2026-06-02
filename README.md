@@ -2,19 +2,21 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+Alireza's+Github+Profile;Neuroscientist+%7C+NBIC+Researcher;Neural+Decoding+%7C+Information+Theory;Python+%7C+MATLAB+%7C+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+Alireza's+GitHub+Profile;Neuroscientist+%7C+NBIC+Researcher;Neural+Decoding+%7C+Information+Theory;Python+%7C+MATLAB+%7C+Machine+Learning" />
 
 </div>
 
 ---
 
-## 🖥️ Terminal Session
+## 🖥️ Terminal
 
 ```bash
 ┌──(alireza㉿neuro-lab)-[~/]
 └─$ whoami
 Alireza Mahdavi
+```
 
+```bash
 ┌──(alireza㉿neuro-lab)-[~/]
 └─$ cat about_me.txt
 
@@ -29,40 +31,34 @@ Alireza Mahdavi
 ## 💻 System Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alirezamahdavi571&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alirezamahdavi571&show_icons=true&theme=dark&count_private=true"/>
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezamahdavi571&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezamahdavi571&theme=dark"/>
 </p>
 
 ---
 
-## 🧠 Installed Packages (Languages)
-
-<h2 align="left">🧠 Installed Packages (Languages)</h2>
+## 🧠 Installed Packages
 
 <p align="center">
-  <img width="50%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=dark&langs_count=10&count_private=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=dark"/>
 </p>
 
 ---
 
-## 🧪 Skills Directory
+## 🧪 Skills
 
 ```bash
-┌──(alireza㉿neuro-lab)-[~/skills]
-└─$ ls technologies/
-
 Python
 MATLAB
 R
 C
 C++
 Qt
-Machine_Learning
-Data_Analysis
-Information_Theory
-Neural_Decoding
+Machine Learning
+Data Analysis
+Information Theory
+Neural Decoding
 ```
 
 ---
@@ -70,71 +66,46 @@ Neural_Decoding
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirezamahdavi571&theme=matrix&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alirezamahdavi571&theme=matrix&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 <p align="center">
   <a href="https://github.com/alirezamahdavi571/The-Roll-of-Variance-in-complex-images-decoding">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=The-Roll-of-Variance-in-complex-images-decoding&theme=dark" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=The-Roll-of-Variance-in-complex-images-decoding&theme=dark"/>
   </a>
 
   <a href="https://github.com/alirezamahdavi571/Neural-Decoding-Analysis">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=Neural-Decoding-Analysis&theme=dark" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=Neural-Decoding-Analysis&theme=dark"/>
   </a>
 </p>
 
 ---
 
-## 📈 Activity Monitor
+## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=react-dark&hide_border=true"/>
 </p>
-
----
-
-## 🔄 Current Work
-
-```bash
-┌──(alireza㉿neuro-lab)-[~/current_work]
-└─$ echo "Current Tasks"
-
-🔭 Working on: Role of Variance in Complex Image Decoding in Primate Brain
-🌱 Learning: Advanced Information Theory & Neural Modeling
-```
 
 ---
 
 ## 📬 Contact
 
 ```bash
-┌──(alireza㉿neuro-lab)-[~/contact]
-└─$ ./connect.sh
-
 Email    : alimahdavi571@gmail.com
-LinkedIn : https://www.linkedin.com/in/alireza-mahdavi-836923217
-Pronouns : He/Him
+LinkedIn : linkedin.com/in/alireza-mahdavi-836923217
 Location : Netherlands 🇳🇱
 ```
 
 ---
 
-<div align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
+## 🔚 Logout
 
 ```bash
-┌──(alireza㉿neuro-lab)-[~/]
-└─$ logout
-
 Session terminated successfully.
 ```
 
