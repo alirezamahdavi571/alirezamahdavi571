@@ -1,4 +1,4 @@
-consider below github README file. I want to have a read which work like a linux os command window :
+
 <!-- ===================== LINUX TERMINAL STYLE README ===================== -->
 
 <div align="center">
@@ -119,6 +119,16 @@ Alireza Mahdavi
 username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 ---
+## 📈 Activity Monitor
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+</p>
+
 
 ```bash
 ┌──(alireza㉿neuro-lab)-[~/current_work]
