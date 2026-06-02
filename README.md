@@ -31,12 +31,16 @@ Alireza Mahdavi
 
 ---
 
-## 💻 System Analytics
+```markdown id="tlf3rk"
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alirezamahdavi571&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezamahdavi571&theme=dark" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&background=000000&center=true&vCenter=true&width=900&lines=%E2%94%8C%E2%94%80%E2%94%80(alireza%E3%89%BFneuro-lab)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+whoami;Alireza+Mahdavi;%E2%94%8C%E2%94%80%E2%94%80(alireza%E3%89%BFneuro-lab)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+cat+about_me.txt;%F0%9F%A7%A0+Neuroscientist+specializing+in+NBIC+Technologies;%F0%9F%8F%9B+Royan+Institute;%F0%9F%94%AC+Research:+Neural+activity+in+primates;%F0%9F%93%8A+Focus:+Variance+analysis+%7C+Neural+decoding+%7C+Information+Theory" />
+
+</div>
+
+---
+```
+
 
 ---
 
