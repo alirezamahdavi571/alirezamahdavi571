@@ -160,7 +160,6 @@ Neural_Decoding
 
 ## 📬 Contact
 
-```bash
 <p align="left">
 
   <!-- LinkedIn -->
