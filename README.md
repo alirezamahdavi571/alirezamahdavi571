@@ -1,84 +1,127 @@
-<!-- ===================== LINUX TERMINAL STYLE README ===================== -->
+# 🖥️ Linux Terminal Style GitHub README
+
+````html
+<!-- ===================== TERMINAL README ===================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+Alireza's+Github+Profile;Neuroscientist+%7C+NBIC+Researcher;Neural+Decoding+%7C+Information+Theory;Python+%7C+MATLAB+%7C+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Booting+Alireza+Mahdavi+Profile...;Loading+Neuroscience+Modules...;Initializing+Neural+Decoding+System...;Access+Granted+✔" />
 
 </div>
 
 ---
 
+<div align="center">
+
 ```bash
-┌──(alireza㉿neuro-lab)-[~/]
-└─$ whoami
+██████████████████████████████████████████████████████████
+█░░░░░░░░░░░░░░░ TERMINAL SESSION ░░░░░░░░░░░░░░░░░░░░█
+██████████████████████████████████████████████████████████
+````
+
+</div>
+
+```bash
+root@github:~# systemctl start profile.service
+
+[  OK  ] Loading neuroscience modules...
+[  OK  ] Initializing neural decoding engine...
+[  OK  ] Mounting machine learning environment...
+[  OK  ] Starting NBIC research services...
+[  OK  ] Access granted.
+
+root@github:~# whoami
 Alireza Mahdavi
 
-┌──(alireza㉿neuro-lab)-[~/]
-└─$ cat about_me.txt
-🧠 Neuroscientist specializing in NBIC Technologies
+root@github:~# cat about.txt
+
+🧠 Neuroscientist | NBIC Researcher
 🏛 Royan Institute
-🔬 Research: Neural activity in primates during visual tasks
-📊 Focus: Variance analysis, Neural decoding, Information theory
+🔬 Research Focus:
+   • Neural Variability
+   • Information Theory
+   • Neural Decoding
+   • Brain Dynamics in Primates
+
+📡 Current Mission:
+Understanding visual information processing in the brain.
 ```
 
 ---
 
-## 💻 System Analytics
+# 📊 SYSTEM MONITOR
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alirezamahdavi571&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezamahdavi571&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alirezamahdavi571&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezamahdavi571&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Installed Packages (Languages)
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=dark&langs_count=10&count_private=true" />
-</p>
-
----
+# 🧠 INSTALLED PACKAGES
 
 ```bash
-┌──(alireza㉿neuro-lab)-[~/skills]
-└─$ ls technologies/
+root@github:~/skills# ls
 
 Python
 MATLAB
 R
 Machine_Learning
-Data_Analysis
+Deep_Learning
+Neural_Decoding
+Information_Theory
+Signal_Processing
 C
 C++
-Information_Theory
-Neural_Decoding
+Qt
+Linux
 ```
 
 ---
 
-## 🏆 Achievements
+# 📈 CPU USAGE / LANGUAGE ANALYTICS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirezamahdavi571&theme=matrix&no-frame=true&row=1&column=6" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <a href="https://github.com/alirezamahdavi571/The-Roll-of-Variance-in-complex-images-decoding">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=The-Roll-of-Variance-in-complex-images-decoding&theme=dark" />
-  </a>
-  <a href="https://github.com/alirezamahdavi571/Neural-Decoding-Analysis">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=Neural-Decoding-Analysis&theme=dark" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=alirezamahdavi571&theme=matrix&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## 📈 Activity Monitor
+# 📂 FEATURED PROJECTS
+
+```bash
+root@github:~/projects# tree
+
+.
+├── The-Roll-of-Variance-in-complex-images-decoding
+├── Neural-Decoding-Analysis
+└── Brain-Signal-Processing
+```
+
+<p align="center">
+
+<a href="https://github.com/alirezamahdavi571/The-Roll-of-Variance-in-complex-images-decoding">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=The-Roll-of-Variance-in-complex-images-decoding&theme=chartreuse-dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/alirezamahdavi571/Neural-Decoding-Analysis">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alirezamahdavi571&repo=Neural-Decoding-Analysis&theme=chartreuse-dark&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+# 📡 LIVE ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezamahdavi571&theme=react-dark&hide_border=true&area=true" width="95%"/>
@@ -86,26 +129,32 @@ Neural_Decoding
 
 ---
 
-```bash
-┌──(alireza㉿neuro-lab)-[~/current_work]
-└─$ echo "Current Tasks"
+# 🔄 CURRENT TASKS
 
-🔭 Working on: Role of Variance in Complex Image Decoding in Primate Brain
-🌱 Learning: Advanced Information Theory & Neural Modeling
+```bash
+root@github:~/current_tasks# journalctl -u research.service
+
+● Working on:
+  Role of Variance in Complex Image Decoding
+
+● Learning:
+  Advanced Information Theory
+  Neural Modeling
+  Brain-Inspired AI
 ```
 
 ---
 
-## 📬 Contact
+# 🌐 NETWORK CONFIG
 
 ```bash
-┌──(alireza㉿neuro-lab)-[~/contact]
-└─$ ./connect.sh
+root@github:~/contact# ifconfig
 
-Email    : alimahdavi571@gmail.com
-LinkedIn : https://www.linkedin.com/in/alireza-mahdavi-836923217
-Pronouns : He/Him
-Location : Netherlands 🇳🇱
+user      : Alireza Mahdavi
+email     : alimahdavi571@gmail.com
+linkedin  : linkedin.com/in/alireza-mahdavi-836923217
+location  : Netherlands 🇳🇱
+status    : Online
 ```
 
 ---
@@ -119,10 +168,15 @@ Location : Netherlands 🇳🇱
 ---
 
 ```bash
-┌──(alireza㉿neuro-lab)-[~/]
-└─$ logout
+root@github:~# logout
 
-Session terminated successfully.
+Saving session...
+Terminated successfully.
+
+Connection to github closed.
 ```
 
 <!-- ===================== END ===================== -->
+
+```
+```
