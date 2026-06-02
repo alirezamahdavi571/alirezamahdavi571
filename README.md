@@ -34,11 +34,72 @@ Alireza Mahdavi
 ---
 
 ## 🧠 Installed Packages (Languages)
+<p align="left">
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezamahdavi571&layout=compact&theme=dark&langs_count=10&count_private=true" />
+  <!-- Core Languages -->
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="python" width="28" height="28" />
+  </a>
+
+  <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
+         alt="matlab" width="28" height="28" />
+  </a>
+
+  <a href="https://www.r-project.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
+         alt="r" width="28" height="28" />
+  </a>
+
+  <a href="https://isocpp.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         alt="cpp" width="28" height="28" />
+  </a>
+
+  <a href="https://www.cprogramming.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+         alt="c" width="28" height="28" />
+  </a>
+
+  <!-- ML / Data Science -->
+  <a href="https://pytorch.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+         alt="pytorch" width="28" height="28" />
+  </a>
+
+  <a href="https://scikit-learn.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+         alt="sklearn" width="28" height="28" />
+  </a>
+
+  <a href="https://numpy.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+         alt="numpy" width="28" height="28" />
+  </a>
+
+  <a href="https://pandas.pydata.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+         alt="pandas" width="28" height="28" />
+  </a>
+
+  <!-- Tools -->
+  <a href="https://www.qt.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg"
+         alt="qt" width="28" height="28" />
+  </a>
+
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+         alt="git" width="28" height="28" />
+  </a>
+
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+         alt="linux" width="28" height="28" />
+  </a>
+
 </p>
-
 ---
 
 ```bash
